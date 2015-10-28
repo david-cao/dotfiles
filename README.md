@@ -1,4 +1,3 @@
-# dotfiles
 David's Dotfiles
 ================
 
