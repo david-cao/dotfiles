@@ -1,0 +1,7 @@
+[push]
+	default = simple
+[user]
+	name = David Cao
+	email = davidcao@seas.upenn.edu
+[core]
+	editor = vim
